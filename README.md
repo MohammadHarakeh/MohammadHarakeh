@@ -1,7 +1,3 @@
-### Hi there 👋
-<img></img>
-
-
 ![gqlyZ1698173221](https://github.com/MohammadHarakeh/MohammadHarakeh/assets/92041867/57235385-e01e-4773-83b6-e5dd3ed28a3a)
 
 
