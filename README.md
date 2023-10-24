@@ -7,6 +7,15 @@
 
 I'm a computer science graduate from American University of Science and Technology. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love exploring new technologies and seeing how they can be used in real-life problems. I'm currently working on improving my coding and problem-solving skills.
 
+**Technical Skills:**
+
+- Unreal Engine
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- React.JS
 
 
 <!--
