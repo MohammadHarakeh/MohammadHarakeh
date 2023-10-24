@@ -17,6 +17,10 @@ I'm a computer science graduate from American University of Science and Technolo
 - JavaScript
 - React.JS
 
+Contact me through:
+- Email: [mohamad.harakeh2001@gmail.com](mailto:mohamad.harakeh2001@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/mohammad-harake/](https://www.linkedin.com/in/mohammad-harake/)
+
 
 <!--
 **MohammadHarakeh/MohammadHarakeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
