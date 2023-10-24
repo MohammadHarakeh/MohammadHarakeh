@@ -3,6 +3,11 @@
 </div>
 
 
+---
+
+I'm a computer science graduate from American University of Science and Technology. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love exploring new technologies and seeing how they can be used in real-life problems. I'm currently working on improving my coding and problem-solving skills.
+
+
 
 <!--
 **MohammadHarakeh/MohammadHarakeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
