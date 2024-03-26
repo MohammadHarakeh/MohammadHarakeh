@@ -18,7 +18,7 @@ I'm a computer science graduate from American University of Science and Technolo
 - React.JS
 
 Contact me through:
-- Email: [mohamad.harakeh2001@gmail.com](mailto:mohamad.harakeh2001@gmail.com)
+- Email: [mohammad.d.harakeh@gmail.com](mailto:mohamad.harakeh2001@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/mohammad-harake/](https://www.linkedin.com/in/mohammad-harake/)
 
 
