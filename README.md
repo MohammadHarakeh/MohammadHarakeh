@@ -9,17 +9,19 @@ I'm a computer science graduate from American University of Science and Technolo
 
 **Technical Skills:**
 
+- JavaScript
+- React.js
+- Next.js
+- TypeScript
+- Node.js
+- Laravel
 - Unreal Engine
 - Java
 - Python
-- HTML
-- CSS
-- JavaScript
-- React.JS
 
 Contact me through:
 - Email: [mohammad.d.harakeh@gmail.com](mailto:mohammad.d.harakeh@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/mohammad-harake/](https://www.linkedin.com/in/mohammad-harake/)
+- LinkedIn: [https://www.linkedin.com/in/mohammad-d-harakeh/](https://www.linkedin.com/in/mohammad-d-harakeh/)
 
 
 <!--
