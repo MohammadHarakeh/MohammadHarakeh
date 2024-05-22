@@ -5,7 +5,7 @@
 
 ---
 
-I'm a computer science graduate from American University of Science and Technology. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love exploring new technologies and seeing how they can be used in real-life problems. I'm currently working on improving my coding and problem-solving skills.
+I'm a computer science graduate from the American University of Science and Technology. I'm a passionate learner, always eager to explore and work with various technologies and domains. I love discovering new technologies and applying them to real-life problems. I'm dedicated to learning something new every day.
 
 **Technical Skills:**
 
